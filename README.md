@@ -23,6 +23,10 @@ Install dependencies:
 
 Run local server:
 
+    hexo server
+
+Generate files and watch for changes:
+
     hexo generate --watch
 
 ## Miscellaneous
