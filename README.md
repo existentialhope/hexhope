@@ -1,5 +1,5 @@
 # hexhope
-Hexo example for Existential Hope. See it [live](existentialhope.github.io).
+Hexo example for Existential Hope. See it [live](https://existentialhope.github.io).
 
 ## Getting Started
 Most things that we would want to do can be done more easily using the Hexo CLI. For more information, check out the [documentation](https://hexo.io/docs/index.html). To get started:
